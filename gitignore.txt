@@ -1,1 +1,2 @@
-flask python - Shortcut.Ink
+*.pyc
+__pycache__/*
